@@ -28,6 +28,10 @@ Children's Privacy
 
 BladderBuddy is not directed at children under the age of 13 and does not knowingly collect data from children.
 
+iCloud Backup (Optional)
+
+BladderBuddy offers an optional iCloud backup feature. If you choose to enable it, your catheterization logs, intake/leakage records, medication list, and reminder settings are stored in your private iCloud account using Apple's CloudKit service. This data is stored in your personal iCloud private database — we do not have access to it, and it is not shared with the developer or any third party. You can disable this feature at any time, and your data remains on your device whether or not backup is enabled.
+
 Changes to This Policy
 
 If this privacy policy changes in the future, the updated version will be posted at this URL with a revised "last updated" date.
