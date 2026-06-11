@@ -1,42 +1,36 @@
-Privacy Policy for BladderBuddy
+# BladderBuddy Privacy Policy Summary
 
-Last updated: May 2026
+**Last Updated:** June 2026
 
-Overview
+## Overview
+BladderBuddy is designed to keep your health data private. By default, all information is stored locally on your device. If you choose to enable the optional iCloud Backup feature, your data is also stored in your private iCloud account — see the "iCloud Backup" section below for details.
 
-BladderBuddy is a personal bladder health tracking app designed to help individuals manage catheterization schedules and fluid intake. Your privacy is important to us. This policy explains what data the app collects and how it is used.
+## Data Collection
+All information you enter into the app — including catheterization logs, fluid intake entries, leakage entries, medications, and reminder settings — is stored on your device using Apple's local storage (UserDefaults). The developer operates no servers and employs no tracking, analytics, or advertising technology.
 
-Data Collection
+## iCloud Backup (Optional)
+BladderBuddy offers an optional backup feature powered by Apple's CloudKit service. If you enable it:
 
-BladderBuddy does not collect, transmit, or share any personal data. All information you enter into the app — including catheterization logs, fluid intake entries, symptoms, medications, and reminder settings — is stored exclusively on your device using Apple's local storage (UserDefaults).
+- Your catheterization logs, intake/leakage entries, medications, and reminder settings are copied to your personal iCloud private database.
+- This data is stored in your own private iCloud account — the developer cannot access it, and it is never shared with the developer or any third party.
+- You can disable this feature at any time in Settings. Disabling it stops future backups; it does not delete data already stored in iCloud, and it has no effect on the data stored locally on your device.
 
-We do not operate any servers. We do not have access to your data. We do not use analytics, advertising SDKs, or third-party tracking of any kind.
+This feature is off by default and entirely optional.
 
-Notifications
+## Notifications
+Reminders are delivered through Apple's local notification system. No reminder data is transmitted externally.
 
-BladderBuddy uses Apple's notification system to deliver catheterization reminders. Notifications are scheduled locally on your device and are never transmitted to any external service.
+## Data Sharing
+The app does not share or sell your information to third parties. Export features (PDF/CSV) create files on your device, and you control how those files are shared or distributed.
 
-Data Sharing
+## Data Deletion
+Removing the app permanently erases all locally stored information from your device. If you previously enabled iCloud Backup, your backed-up data remains in your private iCloud account until you delete it via your iCloud account settings.
 
-BladderBuddy does not share your data with anyone. The app's export feature (PDF and CSV) generates files entirely on your device. You choose if and how to share those files — the app does not send them anywhere automatically.
+## Children's Privacy
+BladderBuddy is intended for users 13 and older. The developer does not knowingly collect data from children under 13.
 
-Data Deletion
+## Changes to This Policy
+Any future updates to this policy will be posted at this same page with a revised "Last Updated" date.
 
-All app data is stored locally on your device. You can delete all data at any time by deleting the app from your device. This action is permanent and cannot be undone.
-
-Children's Privacy
-
-BladderBuddy is not directed at children under the age of 13 and does not knowingly collect data from children.
-
-iCloud Backup (Optional)
-
-BladderBuddy offers an optional iCloud backup feature. If you choose to enable it, your catheterization logs, intake/leakage records, medication list, and reminder settings are stored in your private iCloud account using Apple's CloudKit service. This data is stored in your personal iCloud private database — we do not have access to it, and it is not shared with the developer or any third party. You can disable this feature at any time, and your data remains on your device whether or not backup is enabled.
-
-Changes to This Policy
-
-If this privacy policy changes in the future, the updated version will be posted at this URL with a revised "last updated" date.
-
-Contact
-
-If you have questions about this privacy policy, you can reach us at:
-bladder.buddy.app@gmail.com
+## Contact
+Questions about this policy can be directed to: bladder.buddy.app@gmail.com
